@@ -1,0 +1,1 @@
+move_file_by_content_c.bat h:\projects\move_file_by_content\a\halyk\in\*.* h:\projects\move_file_by_content\c\halyk\in\
